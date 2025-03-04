@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601988286642",
+    "project_id": "ente-ph",
+    "storage_bucket": "ente-ph.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601988286642:android:2e357aef49ad0a041321ab",
+        "android_client_info": {
+          "package_name": "com.phanphuongnam.ente_photos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZrJV_Qna0rLItkl1twfbn-qNH7JFe4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
